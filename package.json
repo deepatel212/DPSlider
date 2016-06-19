@@ -1,0 +1,24 @@
+{
+  "name": "DPSlider",
+  "version": "1.0.0",
+  "description": "This is the slider plugin for jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepatel212/DPSlider.git"
+  },
+  "keywords": [
+    "jQuery",
+    "slider",
+    "plugin"
+  ],
+  "author": "Deep Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepatel212/DPSlider/issues"
+  },
+  "homepage": "https://github.com/deepatel212/DPSlider#readme"
+}
